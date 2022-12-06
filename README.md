@@ -33,3 +33,4 @@ Easy Ensemble AdaBoost Classifier
 - Recall: 0.91/0.94
 
 ## Summary
+When analyzing this data, it is clear to see that the Easy Ensemble AdaBoost Classifier algorithm is the most efficient model for balanced accuracy coming in at 0.925427358175101. For precision, every model was similar with there being a slight variation in the high_risk but, each low_risk being 1.0. Easy Ensemble AdaBoost Classifier also yields us the best result for recall with a score of 0.91/0.94. The last algorithm, the Easy Ensemble AdaBoost Classifier is the best model to work on. 
